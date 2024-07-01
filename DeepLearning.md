@@ -73,14 +73,9 @@
 
 ## 第四周 (2024.07.01 - 2024.07.07 )
 ### 超分
-#### 傅里叶特征
-傅里叶特征是简单傅里叶变换的工程改进，此部分论文数学内容与主题关联较小，可在一定程度上忽略。
-##### Brief introduction of Spectral Bias
-- On the Spectral Bias of Neural Networks (概览,可不看)
-##### Brief introduction of Fourier Features
-- Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (概览,可不看)
-##### Fourier feature for continue super resolution
-- Local Texture Estimator for Implicit Representation Function
+#### 盲超分
+- A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution
+- Navigating Beyond Dropout: An Intriguing Solution Towards Generalizable Image Super Resolution
 ### 对比学习
 - DINO:
     - Emerging Properties in Self-Supervised Vision Transformers (ICCV 2021)
@@ -92,11 +87,23 @@
 ### H100介绍
 - 基于 NVIDIA GPU 加速的数据中心
 - NVIDIA H100 GPU 架构深度解析
-## 第五周 (2024.07.07 - 2024.07.14 )
+
+- 
+## 第六周 (2024.07.07 - 2024.07.14 )
+### 超分
+#### 傅里叶特征
+傅里叶特征是简单傅里叶变换的工程改进，此部分论文数学内容与主题关联较小，可在一定程度上忽略。
+##### Brief introduction of Spectral Bias
+- On the Spectral Bias of Neural Networks (概览,可不看)
+##### Brief introduction of Fourier Features
+- Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (概览,可不看)
+##### Fourier feature for continue super resolution
+- Local Texture Estimator for Implicit Representation Function
+
+## 第七周 (2024.07.14 - 2024.07.21 )
 ### 超分
 #### 跨领域整合的图像修复方法
 ##### LUTs and Image Restoration
 - Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
 ##### Mamba and Image Restoration
 - MambaIR: A Simple Baseline for Image Restoration with State-Space Model
-
