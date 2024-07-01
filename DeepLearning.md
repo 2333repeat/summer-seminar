@@ -26,7 +26,7 @@
 ### 超分
 #### 无监督计算机视觉
 #### Unsupervised Super resolution
-- Bayesian Image Super-Resolution With Deep Modeling of Image Statistics
+- CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution
 ##### Unsupervised Deraining
 - Unsupervised Deraining: Where Asymmetric Contrastive Learning Meets Self-Similarity
 ### 图像分类
