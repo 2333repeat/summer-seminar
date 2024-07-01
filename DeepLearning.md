@@ -87,12 +87,6 @@
 - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (概览,可不看)
 ##### Fourier feature for continue super resolution
 - Local Texture Estimator for Implicit Representation Function
-### 图像分类
-- 2014年：GoogLeNet
-    - Going deeper with convolutions
-    - 更深卷积
-
-
 ### 对比学习
 - DINO:
     - Emerging Properties in Self-Supervised Vision Transformers (ICCV 2021)
@@ -105,10 +99,4 @@
 - 基于 NVIDIA GPU 加速的数据中心
 - NVIDIA H100 GPU 架构深度解析
 ## 第五周 (2024.07.01 - 2024.07.07 )
-### 图像分类
-- 2016年：Xception
-    - Xception: Deep Learning with Depthwise Separable Convolutions
-    - 深度学习与深度可分卷积
-- 2017年：MobileNet
-    - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-    - 用于移动视觉应用的高效卷积神经网络
+
