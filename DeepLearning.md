@@ -48,12 +48,6 @@
     - 生成多个视角，利用一个视角得到的特征去预测另一个视角的特征; 与聚类工作相结合，利用 聚类中心（3000个）进行预测; 提出 Muti-crop 的数据增强策略，多尺度的剪裁原始图像作为数据增强
 
 ##  第三周 (2024.06.17 - 2024.06.23)
-### 超分
-#### 跨领域整合的图像修复方法
-##### LUTs and Image Restoration
-- Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
-##### Mamba and Image Restoration
-- MambaIR: A Simple Baseline for Image Restoration with State-Space Model
 ### 图像分类
 - 2015年：Batch Normalization
     - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
@@ -77,7 +71,7 @@
     - 较 BYOL 没有使用动量编码器进行参数更新; 无需负样本
 
 
-## 第四周 (2024.06.24 - 2024.06.30 )
+## 第四周 (2024.07.01 - 2024.07.07 )
 ### 超分
 #### 傅里叶特征
 傅里叶特征是简单傅里叶变换的工程改进，此部分论文数学内容与主题关联较小，可在一定程度上忽略。
@@ -98,5 +92,11 @@
 ### H100介绍
 - 基于 NVIDIA GPU 加速的数据中心
 - NVIDIA H100 GPU 架构深度解析
-## 第五周 (2024.07.01 - 2024.07.07 )
+## 第五周 (2024.07.07 - 2024.07.14 )
+### 超分
+#### 跨领域整合的图像修复方法
+##### LUTs and Image Restoration
+- Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables
+##### Mamba and Image Restoration
+- MambaIR: A Simple Baseline for Image Restoration with State-Space Model
 
